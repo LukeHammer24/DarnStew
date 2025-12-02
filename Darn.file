@@ -4,9 +4,9 @@ Last Update: 2025-12-02
 - Added Weapon Slots
 - No BS Hardware Required
 - Completely reworked movement
-  Deadzone logic fixed
   Fully non-linear behavior 
   Distance-based deadzone & damping
   Distance-dependent randomness
   Automatic jitter suppression
   Guarantees a minimum movement of 1 px
+
