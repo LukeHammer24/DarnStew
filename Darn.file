@@ -1,12 +1,30 @@
-Last Update: 2025-12-02
-- Added online changelog support
+New Features / Improvements:
 - Improved UI animations
-- Added Weapon Slots
-- No BS Hardware Required
-- Completely reworked movement
-  Fully non-linear behavior 
-  Distance-based deadzone & damping
-  Distance-dependent randomness
-  Automatic jitter suppression
-  Guarantees a minimum movement of 1 px
+    * Snow background theme
+    * Re-styled keybind tab
+- Added fully optimized weapon slots
+- No hardware required
+- Added aim lead prediction
+- Visual tab changes
+    * Show detections (thin corners)
+    * Show prediction dot
+    * Show crossair (best yet)
+    * Show debug (avg fps, highs, lows)
+- Added customizable target bone
+- New profile tab
+    * Added online changelog support
+    * Shows last update, expiry, uptime, etc
+- Completely reworked movement:
+    * Fully non-linear behavior
+    * Distance-based deadzone & damping
+    * Distance-dependent randomness
+    * Automatic jitter suppression
 
+Tips:
+- Build will not initialize if Fortnite has been opened since the last PC reboot
+  -> Restart PC, wait ~30s, then try again
+- Unable to launch game with app open?
+  -> Launch while in the lobby
+
+Known Bugs:
+- None yet
