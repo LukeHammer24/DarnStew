@@ -22,11 +22,10 @@ New Features:
     * Automatic jitter suppression
 
 Tips:
-- Build will not initialize if Fortnite has been opened since the last PC reboot
+- Build will not initialize if game has been opened since the last PC reboot
   -> Restart PC, wait ~30s, then try again
 - Unable to launch game with app open?
   -> Launch while in the lobby
 
 Known Bugs:
 - None yet
-
